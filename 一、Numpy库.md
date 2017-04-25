@@ -1,11 +1,5 @@
 # 一、Numpy库
 
-## 1.1 基础
-
-```python
->>import numpy as np
-```
-
 整个Numpy库的基础是ndarray（N-dimensional array，N维数组）对象。
 
 Numpy数组一旦创立大小固定。
